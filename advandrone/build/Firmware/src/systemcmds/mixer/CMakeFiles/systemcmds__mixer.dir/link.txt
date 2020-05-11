@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/lybot/Desktop/advandrone/devel/lib/libsystemcmds__mixer.a  CMakeFiles/systemcmds__mixer.dir/mixer.cpp.o
+/usr/bin/ranlib /home/lybot/Desktop/advandrone/devel/lib/libsystemcmds__mixer.a

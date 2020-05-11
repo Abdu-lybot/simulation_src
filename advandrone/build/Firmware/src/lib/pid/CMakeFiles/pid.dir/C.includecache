@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lybot/Desktop/advandrone/src/Firmware/src/lib/pid/pid.c
+pid.h
+/home/lybot/Desktop/advandrone/src/Firmware/src/lib/pid/pid.h
+math.h
+-
+
+/home/lybot/Desktop/advandrone/src/Firmware/src/lib/pid/pid.h
+stdint.h
+-
+

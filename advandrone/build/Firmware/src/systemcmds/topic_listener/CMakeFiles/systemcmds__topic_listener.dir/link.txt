@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/lybot/Desktop/advandrone/devel/lib/libsystemcmds__topic_listener.a  CMakeFiles/systemcmds__topic_listener.dir/topic_listener.cpp.o
+/usr/bin/ranlib /home/lybot/Desktop/advandrone/devel/lib/libsystemcmds__topic_listener.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/lybot/Desktop/advandrone/devel/lib/libsystemcmds__pwm.a  CMakeFiles/systemcmds__pwm.dir/pwm.cpp.o
+/usr/bin/ranlib /home/lybot/Desktop/advandrone/devel/lib/libsystemcmds__pwm.a

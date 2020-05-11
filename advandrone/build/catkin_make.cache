@@ -1,0 +1,2 @@
+Firmware
+-DCATKIN_DEVEL_PREFIX=/home/lybot/Desktop/advandrone/devel -DCMAKE_INSTALL_PREFIX=/home/lybot/Desktop/advandrone/install -G Unix Makefiles

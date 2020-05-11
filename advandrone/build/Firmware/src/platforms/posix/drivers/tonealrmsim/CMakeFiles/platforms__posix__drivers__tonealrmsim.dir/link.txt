@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/lybot/Desktop/advandrone/devel/lib/libplatforms__posix__drivers__tonealrmsim.a  CMakeFiles/platforms__posix__drivers__tonealrmsim.dir/tone_alarm.cpp.o
+/usr/bin/ranlib /home/lybot/Desktop/advandrone/devel/lib/libplatforms__posix__drivers__tonealrmsim.a

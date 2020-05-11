@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/lybot/Desktop/advandrone/devel/lib/libsystemcmds__esc_calib.a  CMakeFiles/systemcmds__esc_calib.dir/esc_calib.c.o
+/usr/bin/ranlib /home/lybot/Desktop/advandrone/devel/lib/libsystemcmds__esc_calib.a

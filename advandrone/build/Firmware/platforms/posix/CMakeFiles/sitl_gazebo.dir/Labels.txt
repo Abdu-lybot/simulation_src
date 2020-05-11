@@ -1,0 +1,14 @@
+# Target labels
+ sitl_gazebo
+# Source files and their labels
+/home/lybot/Desktop/advandrone/build/Firmware/platforms/posix/CMakeFiles/sitl_gazebo
+/home/lybot/Desktop/advandrone/build/Firmware/platforms/posix/CMakeFiles/sitl_gazebo.rule
+/home/lybot/Desktop/advandrone/build/Firmware/platforms/posix/CMakeFiles/sitl_gazebo-complete.rule
+/home/lybot/Desktop/advandrone/build/Firmware/external/Stamp/sitl_gazebo/sitl_gazebo-install.rule
+/home/lybot/Desktop/advandrone/build/Firmware/external/Stamp/sitl_gazebo/sitl_gazebo-mkdir.rule
+/home/lybot/Desktop/advandrone/build/Firmware/external/Stamp/sitl_gazebo/sitl_gazebo-download.rule
+/home/lybot/Desktop/advandrone/build/Firmware/external/Stamp/sitl_gazebo/sitl_gazebo-update.rule
+/home/lybot/Desktop/advandrone/build/Firmware/external/Stamp/sitl_gazebo/sitl_gazebo-patch.rule
+/home/lybot/Desktop/advandrone/build/Firmware/external/Stamp/sitl_gazebo/sitl_gazebo-configure.rule
+/home/lybot/Desktop/advandrone/build/Firmware/external/Stamp/sitl_gazebo/sitl_gazebo-build.rule
+/home/lybot/Desktop/advandrone/build/Firmware/external/Stamp/sitl_gazebo/sitl_gazebo-forceconfigure.rule

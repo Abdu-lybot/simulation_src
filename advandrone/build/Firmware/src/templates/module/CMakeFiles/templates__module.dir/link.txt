@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/lybot/Desktop/advandrone/devel/lib/libtemplates__module.a  CMakeFiles/templates__module.dir/module.cpp.o
+/usr/bin/ranlib /home/lybot/Desktop/advandrone/devel/lib/libtemplates__module.a

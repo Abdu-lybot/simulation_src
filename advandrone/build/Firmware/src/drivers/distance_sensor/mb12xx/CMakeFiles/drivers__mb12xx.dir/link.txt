@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/lybot/Desktop/advandrone/devel/lib/libdrivers__mb12xx.a  CMakeFiles/drivers__mb12xx.dir/mb12xx.cpp.o
+/usr/bin/ranlib /home/lybot/Desktop/advandrone/devel/lib/libdrivers__mb12xx.a

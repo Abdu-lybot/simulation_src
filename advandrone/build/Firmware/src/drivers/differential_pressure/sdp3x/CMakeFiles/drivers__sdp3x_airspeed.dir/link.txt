@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/lybot/Desktop/advandrone/devel/lib/libdrivers__sdp3x_airspeed.a  CMakeFiles/drivers__sdp3x_airspeed.dir/SDP3X.cpp.o CMakeFiles/drivers__sdp3x_airspeed.dir/SDP3X_main.cpp.o
+/usr/bin/ranlib /home/lybot/Desktop/advandrone/devel/lib/libdrivers__sdp3x_airspeed.a

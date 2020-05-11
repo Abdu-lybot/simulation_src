@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/lybot/Desktop/advandrone/devel/lib/libmodules__wind_estimator.a  CMakeFiles/modules__wind_estimator.dir/wind_estimator_main.cpp.o
+/usr/bin/ranlib /home/lybot/Desktop/advandrone/devel/lib/libmodules__wind_estimator.a
